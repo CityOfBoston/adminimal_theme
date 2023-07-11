@@ -1,6 +1,6 @@
 {
-  "name": "drupal/adminimal_theme",
-  "description": "Drupal administration theme with modern minimalist design.",
+  "name": "cityofboston/adminimal_theme",
+  "description": "D10 port for: Drupal administration theme with modern minimalist design.",
   "type": "drupal-theme",
   "homepage": "https://www.drupal.org/project/adminimal_theme",
   "support": {
